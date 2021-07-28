@@ -1,0 +1,215 @@
+/*nav*/
+
+header
+{
+  background-color: #264653;
+  
+}
+
+.button-login
+{
+  width: 91px;
+  height: 44px;
+  left: 408px;
+  top: 0px;
+  background: #E76F51;
+  border-radius: 5px;
+}
+
+
+.section1
+{
+    background-color: #264653;
+}
+.section1 h1
+{
+ color: #FFFFFF;
+  
+  width: 456px;
+ height: 66px;
+ left: 143px;
+ top: 260px;
+}
+.section1 p
+{
+ 
+ width: 456px;
+ height: 72px;
+ left: 156px;
+ top: 320px;
+ color: #E0E0E0;
+
+}
+.button-style
+{
+    
+width: 168px;
+height: 44px;
+
+top: 413px;
+
+background: #E76F51;
+border-radius: 5px;
+}
+/*Feature section*/
+.features h1
+{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 15px;
+}
+.features p
+{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    color: #E76F51;
+    font-weight: 400;
+    font-size: 18px;
+}
+.features u
+{
+    color :#E76F51;
+    border-radius: 1px;
+    
+
+}
+.feature1
+{
+    filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+
+}
+
+.feature1,.feature2,.feature3 img
+{
+ 
+    width: 288px;
+    height: 243px;
+    border: none; 
+}
+
+
+/*Latest News*/
+.latest-news h1
+{
+
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+/*Reviews*/
+.reviews h1
+{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.reviews img
+{
+    
+width: 250px;
+height: 250px;
+left: calc(50% - 149px/2);
+top: 40px;
+margin-left: 100px;
+margin-top: 40px;
+}
+.reviews p
+{
+    text-align: justify;
+}
+.fa-star.fill
+{
+    color: #E77C40;
+    margin-right: 5px;
+}
+.fa-star.blank
+{
+    color: rgba(128, 128, 128, 0.63);
+}
+
+/*FAQ*/
+
+.faq img
+{
+  width: 431.2px;
+  height: 423.5px;
+  left: 157px;
+  top: 3173px;
+
+}
+.accordion-button
+{
+    font-weight: 700;
+    font-size: 20px;
+}
+.accordion h1
+{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+/*Sign-up*/
+.Sign-up h1
+{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.Sign-up
+{
+    margin-bottom: 80px;
+}
+/*owners's speech*/
+.offcanvas-section
+{
+    margin-bottom: 20px;
+}
+.offcanvas-body img
+{
+    width: 350px;
+    margin-bottom: 20px;
+}
+.offcanvas-body p
+{
+    text-align: justify;
+}
+.offcanvas-body h1
+{
+    text-align: center;
+    font-size: 30px;
+
+}
+
+/*footer*/
+.fab
+{
+    font-size: 30px;
+    font-style: none;
+    color: gray;
+    font-style: none;
+    margin-right: 20px;
+    padding-top: 80px;
+    margin-bottom: 35px;
+   
+}
+footer
+{
+    background-color: #264653;
+    height: 200px;
+    padding-bottom: 10px;
+}
+footer a
+{
+    margin-right: 20px;
+    text-decoration: none;
+    color: white;
+}
+footer p
+{
+    color: white;
+
+}
