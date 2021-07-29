@@ -7,7 +7,7 @@ header
 }
 .nav-link
 {
-    margin-right: 30px;
+    margin-right: 50px;
 }
 
 .button-login
@@ -29,8 +29,6 @@ header
 {
  color: #FFFFFF;
   
-  width: 456px;
- height: 66px;
  
 
 }
@@ -87,7 +85,7 @@ border-radius: 5px;
     
 
 }
-.feature1
+.feature1, .feature3
 {
     filter: grayscale(1);
     -webkit-filter: grayscale(1);
@@ -103,21 +101,6 @@ border-radius: 5px;
     left: 50px;
 }
 
-
-/*Latest News*/
-.latest-news h1
-{
-
-    text-align: center;
-   
-}
-.latest-news img
-{
-    margin-left: 20px;
-    margin-top: 20px;
-    margin-right: 10px;
-    margin-bottom: 20px;
-}
 
 /*Reviews*/
 .reviews h1
